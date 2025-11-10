@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Junior Java Developer",
+    "company": "TechNova Solutions",
+    "city": "Hyderabad",
+    "orgType": "MNC",
+    "workMode": "Hybrid",
+    "salary": "₹4.5 LPA",
+    "skills": "Java, Spring Boot, MySQL",
+    "eligibility": "B.Tech / MCA",
+    "postingDate": "2025-11-10",
+    "link": "https://careers.technova.in/jobs/junior-java-developer",
+    "source": "LinkedIn"
+  },
+  {
+    "title": "Full Stack Developer (Java + React)",
+    "company": "BrightCode Labs",
+    "city": "Bengaluru",
+    "orgType": "Startup",
+    "workMode": "Onsite",
+    "salary": "₹6 LPA",
+    "skills": "Java, React, REST APIs, MongoDB",
+    "eligibility": "B.E / B.Tech",
+    "postingDate": "2025-11-10",
+    "link": "https://brightcodelabs.com/careers/fullstack-dev",
+    "source": "Naukri"
+  }
+]
